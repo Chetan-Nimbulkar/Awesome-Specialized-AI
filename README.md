@@ -48,7 +48,6 @@ This repository does **not** focus on:
 * hype-driven projects,
 * or AI marketing tools.
 
----
 
 # Contents
 
@@ -63,100 +62,6 @@ This repository does **not** focus on:
 * [Edge AI & TinyML](#edge-ai--tinyml)
 * [AI Infrastructure & Deployment](#ai-infrastructure--deployment)
 
----
-
-# Computer Vision
-
-| Project   | Task             | Offline | Real-Time | Notes                       |
-| --------- | ---------------- | ------- | --------- | --------------------------- |
-| YOLOv8    | Object Detection | Yes     | Yes       | Fast and widely adopted     |
-| SAM2      | Segmentation     | Yes     | Partial   | Powerful segmentation model |
-| PaddleOCR | OCR              | Yes     | Yes       | Lightweight OCR framework   |
-
----
-
-# Medical AI
-
-| Project | Task                    | Notes                                   |
-| ------- | ----------------------- | --------------------------------------- |
-| MONAI   | Medical Imaging         | PyTorch healthcare AI framework         |
-| nnU-Net | Biomedical Segmentation | Self-configuring segmentation framework |
-
----
-
-# Audio & Speech AI
-
-| Project | Task               | Notes                              |
-| ------- | ------------------ | ---------------------------------- |
-| Whisper | Speech Recognition | Offline multilingual transcription |
-| Piper   | Text-to-Speech     | Fast local TTS                     |
-
----
-
-# Robotics & Autonomous Systems
-
-| Project  | Task                | Notes                              |
-| -------- | ------------------- | ---------------------------------- |
-| ROS 2    | Robotics Middleware | Robotics ecosystem                 |
-| RTAB-Map | SLAM                | Real-time mapping and localization |
-
----
-
-# Anomaly Detection
-
-| Project | Industry    | Notes                                  |
-| ------- | ----------- | -------------------------------------- |
-| PyOD    | General     | Python anomaly detection toolkit       |
-| Merlion | Time-Series | Salesforce anomaly detection framework |
-
----
-
-# Telecom & RF AI
-
-| Project               | Task                     | Notes                          |
-| --------------------- | ------------------------ | ------------------------------ |
-| DeepSig               | RF Signal Classification | Wireless signal AI framework   |
-| GNU Radio ML Projects | SDR + AI                 | RF signal processing ecosystem |
-
----
-
-# Finance & Fraud Detection
-
-| Project           | Task                  | Notes                          |
-| ----------------- | --------------------- | ------------------------------ |
-| XGBoost           | Fraud Detection       | Widely used for tabular ML     |
-| PyTorch Geometric | Graph Fraud Detection | Graph neural network framework |
-
----
-
-# Scientific AI
-
-| Project   | Field                   | Notes                            |
-| --------- | ----------------------- | -------------------------------- |
-| AlphaFold | Protein Folding         | Protein structure prediction     |
-| DeepChem  | Computational Chemistry | Scientific deep learning toolkit |
-
----
-
-# Edge AI & TinyML
-
-| Project         | Hardware    | Notes                   |
-| --------------- | ----------- | ----------------------- |
-| TensorFlow Lite | Mobile/Edge | Lightweight inference   |
-| TensorRT        | NVIDIA GPUs | Optimized GPU inference |
-| Edge Impulse    | TinyML      | Embedded AI platform    |
-
----
-
-# AI Infrastructure & Deployment
-
-| Project      | Purpose                  | Notes                            |
-| ------------ | ------------------------ | -------------------------------- |
-| ONNX Runtime | Cross-platform inference | Portable model execution         |
-| vLLM         | LLM Inference            | High-throughput inference engine |
-| Ollama       | Local Models             | Local AI model serving           |
-
----
 
 # Contribution Guidelines
 
