@@ -1,3 +1,14 @@
+## Metadata Legend
+
+| Field | Description |
+|---------|-------------|
+| Offline | Can run without Internet connectivity |
+| Edge Ready | Suitable for edge or embedded deployment |
+| Tested Platforms | Publicly documented or community-reported platforms |
+| License | Primary project license |
+| Commercial Use | Whether commercial usage is generally permitted |
+| Proven Use Cases | Known practical applications |
+
 
 | Project          | Task                         | Offline | Edge Ready | Tested Platforms            | Proven Use Cases                           | Source                                                             | Additional Context                               |
 | ---------------- | ---------------------------- | ------- | ---------- | --------------------------- | ------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------ |
