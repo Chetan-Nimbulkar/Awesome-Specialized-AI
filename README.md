@@ -1,4 +1,4 @@
-# Awesome-Specialized-AI
+# Awesome-Specialized-AI  ![Awesome](https://awesome.re/badge.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 Curated task-specific AI systems and models for real-world applications across industries and deployment environments.
 
 Unlike generic AI collections focused mainly on large language models, this repository emphasizes specialized AI systems designed for practical applications such as:
